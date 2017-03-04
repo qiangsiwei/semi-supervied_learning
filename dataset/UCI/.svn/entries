@@ -1,0 +1,163 @@
+9
+
+dir
+0
+https://machinelearningresearch.googlecode.com/svn/trunk/MachineLearning/21%E6%95%B0%E6%8D%AE
+https://machinelearningresearch.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+wine.arff
+file
+
+
+
+add
+
+segment.arff
+file
+
+
+
+add
+
+car.arff
+file
+
+
+
+add
+
+optdigits.arff
+file
+
+
+
+add
+
+glass.arff
+file
+
+
+
+add
+
+ionosphere.arff
+file
+
+
+
+add
+
+vote.arff
+file
+
+
+
+add
+
+vehicle.arff
+file
+
+
+
+add
+
+diabetes.arff
+file
+
+
+
+add
+
+sonar.arff
+file
+
+
+
+add
+
+breast-w.arff
+file
+
+
+
+add
+
+dermatology.arff
+file
+
+
+
+add
+
+pendigits.arff
+file
+
+
+
+add
+
+colic.arff
+file
+
+
+
+add
+
+sick.arff
+file
+
+
+
+add
+
+autos.arff
+file
+
+
+
+add
+
+ecoli.arff
+file
+
+
+
+add
+
+audiology.arff
+file
+
+
+
+add
+
+anneal.arff
+file
+
+
+
+add
+
+letter.arff
+file
+
+
+
+add
+
+soybean.arff
+file
+
+
+
+add
+
